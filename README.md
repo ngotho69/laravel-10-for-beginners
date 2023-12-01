@@ -1,7 +1,7 @@
 
-## About Laravel
+## Laravel 10 for brginners
 
 
 
-## Learning Laravel
+## Get this course from bitfumes youtube channel
 
